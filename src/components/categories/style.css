@@ -1,0 +1,4 @@
+.category-item {
+  @apply bg-[#006341] text-white px-5 py-8 cursor-pointer hover:bg-[#1e3b31]
+     hover:text-white transition-all text-start min-w-[250px];
+}
